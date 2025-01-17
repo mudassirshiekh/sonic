@@ -21,6 +21,7 @@ A blazingly fast JSON serializing &amp; deserializing library, accelerated by JI
 see [go.dev](https://pkg.go.dev/github.com/bytedance/sonic)
 
 ## Benchmarks
+## By Mudassir Alam
 
 For **all sizes** of json and **all scenarios** of usage, **Sonic performs best**.
 
